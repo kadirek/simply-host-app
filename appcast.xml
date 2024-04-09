@@ -5,11 +5,11 @@
         <description>Most recent updates to auto_updater_example 2</description>
         <language>en</language>
         <item>
-            <title>Version 1.1.0</title>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+            <title>Version 1.0.0+69</title>
+            <sparkle:version>69</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
             <sparkle:releaseNotesLink>
-                https://www.w3.org/Library/User/ReleaseNotes.html
+                https://releases.aspose.com/html/net/release-notes/
             </sparkle:releaseNotesLink>
             <pubDate>Sun, 16 Feb 2025 12:00:00 +0800</pubDate>
             <enclosure url="https://github.com/kadirek/simply-host-app/blob/main/simply_business-1.0.0+69-macos.zip"
