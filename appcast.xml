@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>Simply Auto Update</title>
+        <description>Most recent updates to auto_updater_example 2</description>
+        <language>en</language>
+        <item>
+            <title>Version 1.1.0</title>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+            <sparkle:releaseNotesLink>
+                https://www.w3.org/Library/User/ReleaseNotes.html
+            </sparkle:releaseNotesLink>
+            <pubDate>Sun, 16 Feb 2025 12:00:00 +0800</pubDate>
+            <enclosure url="https://github.com/kadirek/simply-host-app/blob/main/simply_business-1.0.0+69-macos.zip"
+                       sparkle:edSignature="OWzJRpNGs13apS/SVytFrzB2XXZSM2nqnk14hLrKCU17Uojcgqh+pPBCvCageGL3MRlHZcD/e//RdXlGM4s+AQ=="
+                       sparkle:os="macos"
+                       length="20246824"
+                       type="application/octet-stream" />
+        </item>
+    </channel>
+</rss>
