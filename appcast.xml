@@ -19,7 +19,7 @@
         <item>
             <title>Version 1.0.1</title>
             <sparkle:releaseNotesLink>https://www.w3.org/Library/User/ReleaseNotes.html</sparkle:releaseNotesLink>
-            <pubDate>Mon, 23 Apr 2024 12:00:00 +0000</pubDate>
+            <pubDate>Mon, 30 Apr 2024 12:00:00 +0000</pubDate>
             <enclosure url="https://github.com/simplyapp-ai/simply-recorder/releases/download/1.0.1%2B2/simply_business-1.0.1+1-windows.exe"
                        sparkle:dsaSignature="MD4CHQC4jsmTP5oW0P6cE9HPoVtJGWMTQnPnx25uLbHVAh0AnwMEtQEYJdxi1WklgE0jZ/+MalkBW9jVACbwAw=="
                        sparkle:version="1.0.1"
